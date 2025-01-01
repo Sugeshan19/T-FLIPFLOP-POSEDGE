@@ -43,11 +43,11 @@ From the above characteristic table, we can directly write the next state equati
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 
 **PROGRAM**
-```
- Program for flipflops and verify its truth table in quartus using Verilog programming.
+
+Program for flipflops and verify its truth table in quartus using Verilog programming.
 Developed by:Sugeshan S
 RegisterNumber: 24007573
-```
+
 ```
 module tflipflop( input clk, rst_n, input t,
 output reg q,
